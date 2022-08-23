@@ -1,0 +1,2 @@
+Hotel dentro do padrão
+.O hotel segue o padrão dos bons hotéis. Possui quarto amplo e arejado, além de cama confortável. A única crítica fica por conta do atendimento na [1mRECEPÇÃO[0m, pois o número de funcionários era insuficiente para atender a demanda do hotel.
